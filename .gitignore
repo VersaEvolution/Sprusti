@@ -1,0 +1,6 @@
+# Secrets — never commit
+Github.txt
+Vercel.txt
+*.env
+
+.vercel
